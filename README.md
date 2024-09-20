@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpatil30&label=Profile%20views&color=0e75b6&style=flat" alt="kiranpatil30" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+-  **MERN Stack Developer**
 
 - ⚡ Fun fact **I Am Funny 😉**
 
@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/kiran patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran patil" height="30" width="40" /></a>
 <a href="https://instagram.com/kiran_pratil_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiran_pratil_30" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kiran_1312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kiran_1312" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kiran_patil_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiran_patil_30" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kiranspap4je" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kiranspap4je" height="30" width="40" /></a>
 </p>
